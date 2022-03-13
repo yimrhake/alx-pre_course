@@ -2,4 +2,5 @@ git add .
 git commit - m 
 git clone
 git push 
-git checkout -b 
+git checkout -b
+git pull 
